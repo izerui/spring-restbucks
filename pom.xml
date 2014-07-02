@@ -115,7 +115,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 	<pluginRepositories>
 		<pluginRepository>
 			<id>spring-libs-snapshot</id>
-			<url>http://repo.spring.io/libs-snapshot-local</url>
+			<url>http://repo.spring.io/repo1-cache</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
